@@ -69,6 +69,7 @@ flowchart LR
 |---|---|
 | `nathan_workflow.json` | Exported n8n workflow definition (nodes, connections, settings) — import directly into n8n |
 | `README.md` | This file |
+| `Workflow image` | Image | |
 
 ## 📝 Notes
 
